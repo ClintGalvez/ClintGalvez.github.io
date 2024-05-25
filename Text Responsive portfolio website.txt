@@ -17,9 +17,8 @@ Clint Galvez
 Game Developer
 
 .home__description
-With knowledge in game development and 
-design, I offer the best projects resulting 
-in quality work.
+Welcome to my website! It's still a work in progress, 
+but hopefully you enjoy your visit.
 
 .button
 Let's Talk
@@ -41,10 +40,10 @@ My <span>Intro</span>
 About Me
 
 .about__description
-Game developer, I create games with 
-various engines, I have years of 
-experience and many clients are happy with the 
-projects carried out.
+I'm a 4th year Computer Science student from Carleton University.
+I'm pretty laidback but I live for the challenge. As for my interests,
+besides the obvious game dev and everything related,
+I enjoy calisthenics, rock-climbing, muay thai, reading, and eldritch horrors.
 
 .button
 Contact Me
@@ -58,21 +57,27 @@ Favorite <span>Skills</span>
 My Skills
 
 .skills__description
-See fully what skills I have and perform, 
-to develop the projects for you.
+I'm very familiar and comfortable with Object Oriented Programming
+and working in an Agile environment on various projects both independently 
+and with a team (multi-disciplinary or not). 
+
+Since I'm a fast learner, I'm especially 
+good at adapting to the tasks at hand and doing what it takes to get the
+job done; whether it be performing independent research or working
+collaboratively with others.
 
 .button
 See Projects
 
 .skills__item
-HTML & CSS
-JavaScript
-Bootstrap
-React
+C/C++/C#
+Visual Studio
+Git/Github
+Linux
 
-Git & GitHub
-Figma
-Sketch
+Unreal Engine
+Godot
+Blender
 
 
 ========== SERVICES ==========
@@ -84,19 +89,19 @@ What I Do
 
 .services__title .services__description
 Game Developer
-Development of custom games. 
+Development of games. 
 Using current technologies and 
 libraries of the labor field.
 
-UI/UX Designer
-I offer design of web interfaces and 
-mobile applications, design made in 
-figma, adobe xd and sketch.
+Software Automation Engineer
+Resolve software issues, run tests and automate
+tasks that streamline the software dev cycle,
+optimize software responsiveness and
+enhance system reliability.
 
-Graphic Design
-I make designs at the client's request, 
-banner design, posters, digital 
-designs among others.
+QoL Enhancer
+I can carry all your groceries to your place
+in one trip.
 
 
 ========== PROJECTS ==========
@@ -107,8 +112,8 @@ My <span>Jobs</span>
 Recent Projects
 
 .projects__subtitle .projects__title .projects__button
-Web
-Modern website
+Game
+Game Title
 View demo
 
 
