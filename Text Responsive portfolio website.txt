@@ -88,12 +88,12 @@ My <span>Services
 What I Do
 
 .services__title .services__description
-Game Developer
+Game Development
 Development of games. 
 Using current technologies and 
 libraries of the labor field.
 
-Software Automation Engineer
+Software Automation
 Resolve software issues, run tests and automate
 tasks that streamline the software dev cycle,
 optimize software responsiveness and
