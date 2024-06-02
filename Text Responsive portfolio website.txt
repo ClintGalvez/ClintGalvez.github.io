@@ -99,9 +99,9 @@ tasks that streamline the software dev cycle,
 optimize software responsiveness and
 enhance system reliability.
 
-QoL Enhancer
-I can carry all your groceries to your place
-in one trip.
+Mr. Reliable
+Carry all the groceries in one trip guranteed,
+or your money back!
 
 
 ========== PROJECTS ==========
@@ -112,8 +112,8 @@ My <span>Jobs</span>
 Recent Projects
 
 .projects__subtitle .projects__title .projects__button
-Game
-Game Title
+Project
+Project Title
 View demo
 
 
