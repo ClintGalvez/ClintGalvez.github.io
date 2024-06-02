@@ -14,7 +14,7 @@ Hello, <span>I’m</span>
 Clint Galvez
 
 .home__education
-Game Developer
+Programmer / Developer
 
 .home__description
 Welcome to my website! It's still a work in progress, 
@@ -168,7 +168,7 @@ EmailJS team
 Clint <span>Galvez</span>
 
 .footer__education
-Game Developer  
+Programmer / Developer
 
 .footer__social-link
 https://www.facebook.com/
