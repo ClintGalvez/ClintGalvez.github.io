@@ -370,7 +370,7 @@ svg {
 .about__img {
   width: 1280px;
   height: 1880px;
-  transform: translate(-350px);
+  transform: translate(-415px, -350px);
 }
 
 /*=============== SKILLS ===============*/
